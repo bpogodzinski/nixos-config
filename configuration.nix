@@ -97,10 +97,6 @@
     shell = pkgs.zsh;
   };
 
-  qt = {
-    enable = true;
-  };
-
   system.stateVersion = "24.05";
 
 }
