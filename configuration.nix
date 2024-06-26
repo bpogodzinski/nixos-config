@@ -72,6 +72,7 @@
 
   environment.systemPackages = with pkgs; [
     powerline-fonts
+    python3
   ];
 
   # Enable ZSH 
